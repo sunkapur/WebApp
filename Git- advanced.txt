@@ -1,0 +1,34 @@
+git
+
+git-scm.com
+
+
+git --version (version)
+git config(gives git commands available)
+git --help(man command)
+
+
+git config --global user.name "user"
+
+git config --global user.email "user@email.com"
+
+git config --global user.name(displays user)
+git config --global user.email(displays email of current)
+
+
+Workspace ->(add) Staging area ->(commit) local repository(local system)->(push)remote repository (git)
+
+workspace <-(Merge/Rebase) local repository(local system) (pull) <- remote repository
+
+Git Operations
+
+ADD - adding files to Staging Area
+Commit - sending code from Staging Area to Local repository
+push - sending code from local repository to remote repository
+pull - fetching other module files written by other develpers
+merge/rebase - getting files from local repository to workspace
+
+
+git init
+
+git clone repo_name(URL)

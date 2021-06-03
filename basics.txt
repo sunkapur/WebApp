@@ -1,0 +1,16 @@
+GitHub - Account creation and install Git bash
+AWS Account - Create account(free version costs 2rs)
+java 1.8
+Jenkins - Account
+Maven (Builds)
+Tomcat version 7 (Deployment)
+Ngrok 
+Mobaxterm (to access AWS instances)
+
+
+Continuos Integration 
+
+
+Jenkins
+net start jenkins (start jenkins)
+net stop jenkins(Stop jenkins)
