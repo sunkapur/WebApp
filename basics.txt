@@ -14,3 +14,6 @@ Continuos Integration
 Jenkins
 net start jenkins (start jenkins)
 net stop jenkins(Stop jenkins)
+
+
+hi hello
